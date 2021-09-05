@@ -1,0 +1,7 @@
+{
+  "name": "hap-bio-cli",
+  "version": "1.0.0",
+  "bin": {
+    "hap": "index.js"
+  }
+}
