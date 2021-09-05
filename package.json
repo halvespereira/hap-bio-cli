@@ -15,7 +15,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "repository": "halvespereira/hap-bio-cli",
+  "repository": "https://github.com/halvespereira/hap-bio-cli",
   "author": {
     "email": "hpereira0408@gmail.com",
     "name": "Henrique Pereira",
