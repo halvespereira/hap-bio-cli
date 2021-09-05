@@ -2,9 +2,9 @@
 
 > Get to know Henrique Pereira using your command line with Node.js
 
-##Usage
+## Usage
 
-Tp use this CLI run the following command:
+To use this CLI run the following command:
 
 ```sh
 npx hap-bio-cli
