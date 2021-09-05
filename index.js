@@ -1,8 +1,18 @@
 #!/usr/bin/env node
 
-const clearConsole = require("clear-any-console");
+const pkgJSON = require("./package.json");
+const welcome = require("cli-welcome");
 
-clearConsole();
+welcome({
+  title: `${pkgJSON.name}`,
+  tagLine: `Hi there, I'm Henrique. Nice to meet you.`,
+  version: `${pkgJSON.version}`,
+  description: `${pkgJSON.description}`,
+  bgColor: `#fadc00`,
+  color: `#000000`,
+  bold: true,
+  clear: true,
+});
 
 console.log(`
 Henrique Pereira - software engineer
