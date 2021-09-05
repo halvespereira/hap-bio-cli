@@ -12,5 +12,13 @@
     "henrique",
     "pereira",
     "hap"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": "halvespereira/hap-bio-cli",
+  "author": {
+    "email": "hpereira0408@gmail.com",
+    "name": "Henrique Pereira",
+    "url": "https://henriquepereira.com"
+  }
 }

@@ -23,5 +23,5 @@ Technology enthusiast, originally from Brazil but currently a citizen of the wor
 LinkedIn: https://www.linkedin.com/in/henrique-pereira/
 Instagram: @halveapereira
 GitHub: halveapereira
-
+Website: https://henriquepereira.com
 `);
