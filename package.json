@@ -1,7 +1,7 @@
 {
   "name": "hap-bio-cli",
   "description": "Get to know Henrique Pereira via `npx hap-bio-cli`",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "bin": {
     "hap": "index.js"
   },
