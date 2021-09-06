@@ -3,11 +3,18 @@
 const pkgJSON = require("./package.json");
 const welcome = require("cli-welcome");
 const chalk = require("chalk");
+
 const linkedInClr = chalk.hex("#0077b5").bold.inverse;
 const gitHubClr = chalk.hex("#6cc644").bold.inverse;
 const instagramClr = chalk.hex("#833ab4").bold.inverse;
 const websiteClr = chalk.hex("#ff4c4c").bold.inverse;
 const dim = chalk.dim;
+
+//alerts
+const success = chalk.green.inverse;
+const warning = chalk.keyword("orange").inverse;
+const info = chalk.blue.inverse;
+const error = chalk.red.bold.inverse;
 
 welcome({
   title: `${pkgJSON.name}`,
